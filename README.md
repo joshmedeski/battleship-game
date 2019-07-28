@@ -25,4 +25,28 @@ A weekend project with my buddy recreating the classic battleship board game.
 
 - Establish 2 players, and connect the to the same game
 - Each player has to setup their pieces
-- Players take turns until one of the players has sunk all the ships of their opponet.
+- Players take turns until one of the players has sunk all the ships of their opponent.
+
+# key
+
+0 Empty
+5 Carrier (5)
+4 Battleship (4)
+3 Cruiser (3)
+2 Submarine (3)
+1 Destroyer (2)
+
+0 blank
+1 miss
+2 hit
+
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0
+0 0 0 0 1 0 1 0 0 0
+0 0 0 1 2 2 2 2 2 0
+0 0 0 0 0 0 0 0 0 0
